@@ -21,7 +21,7 @@ parso==0.7.0
 pickleshare==0.7.5
 prompt-toolkit==3.0.5
 protobuf==3.11.3
-Pygments==2.6.1
+Pygments==2.7.4
 pyparsing==2.4.7
 pyTelegramBotAPI==3.6.7
 python-dateutil==2.8.1
