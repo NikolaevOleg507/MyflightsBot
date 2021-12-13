@@ -12,7 +12,7 @@ ipython==7.14.0
 ipython-genutils==0.2.0
 jedi==0.17.0
 kiwisolver==1.2.0
-lxml==4.5.0
+lxml==4.6.5
 matplotlib==3.2.1
 mysql-connector-python==8.0.20
 numpy==1.18.2
